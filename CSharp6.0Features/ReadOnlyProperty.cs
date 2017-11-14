@@ -6,7 +6,7 @@ namespace CSharp6._0Features
     {
         static void Main(string[] args)
         {
-            Customer customer = new Customer();
+            ReadOnlyCustomer customer = new ReadOnlyCustomer();
             customer.FirstName = "TestFirstName";
 
             customer.ChangeLastName("TestLastName");
@@ -17,11 +17,12 @@ namespace CSharp6._0Features
         }
     }
 
-    class Customer
+    class ReadOnlyCustomer
     {
         public string FirstName { get; set; }
 
-        // Before 6.0. But it cannot give full read only access. 
+        // Before 6.0. 
+        // But it cannot give full read only access. 
         // You can modify the lastname using the below method "ChangeLastName";
         public string LastName { get; private set; }
 
@@ -31,7 +32,8 @@ namespace CSharp6._0Features
         }
 
 
-        // In 6.0. It gives full read only access. 
+        // In 6.0. 
+        // It gives full read only access. 
         // You cannot modify the fullname with the below method "ChangeFullName". It gives compile error when you uncomment the code inside that method.
         public string FullName { get; }
 
