@@ -4,3 +4,9 @@ c:\users\karuppannan.prabakar\documents\visual studio 2017\Projects\CSharp6.0Fea
 c:\users\karuppannan.prabakar\documents\visual studio 2017\Projects\CSharp6.0Features\CSharp6.0Features\bin\Debug\CSharp6.0Features.pdb
 c:\users\karuppannan.prabakar\documents\visual studio 2017\Projects\CSharp6.0Features\CSharp6.0Features\obj\Debug\CSharp6.0Features.exe
 c:\users\karuppannan.prabakar\documents\visual studio 2017\Projects\CSharp6.0Features\CSharp6.0Features\obj\Debug\CSharp6.0Features.pdb
+C:\Praba\Learn\CSharp6.0Features\CSharp6.0Features\bin\Debug\CSharp6.0Features.exe.config
+C:\Praba\Learn\CSharp6.0Features\CSharp6.0Features\bin\Debug\CSharp6.0Features.exe
+C:\Praba\Learn\CSharp6.0Features\CSharp6.0Features\bin\Debug\CSharp6.0Features.pdb
+C:\Praba\Learn\CSharp6.0Features\CSharp6.0Features\obj\Debug\CSharp6.0Features.csprojResolveAssemblyReference.cache
+C:\Praba\Learn\CSharp6.0Features\CSharp6.0Features\obj\Debug\CSharp6.0Features.exe
+C:\Praba\Learn\CSharp6.0Features\CSharp6.0Features\obj\Debug\CSharp6.0Features.pdb
