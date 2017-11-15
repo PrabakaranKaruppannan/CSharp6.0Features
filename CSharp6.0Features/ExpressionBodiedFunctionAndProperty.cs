@@ -27,7 +27,7 @@ namespace CSharp6._0Features
 
         public string LastName { get; set; }
 
-        // Before 6.0, We use below way to get the full name
+        // Before C# 6.0, We use below way to get the full name
         public string GetFullName()
         {
             return FirstName + LastName;

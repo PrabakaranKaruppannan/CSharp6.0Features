@@ -46,10 +46,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutoPropertyInitializer.cs" />
+    <Compile Include="AwaitInCatch.cs" />
+    <Compile Include="DictionaryInitializer.cs" />
+    <Compile Include="ExceptionFilter.cs" />
     <Compile Include="ExpressionBodiedFunctionAndProperty.cs" />
+    <Compile Include="NameOfExpresion.cs" />
+    <Compile Include="NullOperator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReadOnlyProperty.cs" />
+    <Compile Include="StaticImport.cs" />
     <Compile Include="StringInterpolation.cs" />
   </ItemGroup>
   <ItemGroup>

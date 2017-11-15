@@ -21,7 +21,7 @@ namespace CSharp6._0Features
     {
         public string FirstName { get; set; }
 
-        // Before 6.0. 
+        // Before C# 6.0. 
         // But it cannot give full read only access. 
         // You can modify the lastname using the below method "ChangeLastName";
         public string LastName { get; private set; }

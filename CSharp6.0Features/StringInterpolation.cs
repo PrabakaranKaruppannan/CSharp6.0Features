@@ -24,7 +24,7 @@ namespace CSharp6._0Features
 
         public string LastName { get; set; }
 
-        // Before 6.0, We use below way to append two strings.  you need to remember which item goes in first index {0} and which one is in {1}
+        // Before C# 6.0, We use below way to append two strings.  you need to remember which item goes in first index {0} and which one is in {1}
         public string GetWelcomeMessage()
         {
             return string.Format("Welcome back {0} {1}", FirstName, LastName);

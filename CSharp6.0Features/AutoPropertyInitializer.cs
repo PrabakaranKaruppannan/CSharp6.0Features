@@ -17,7 +17,7 @@ namespace CSharp6._0Features
 
     class AutoPropertyCustomer
     {
-        // Before 6.0, We can initializte value for the property in either two ways. 1. Private Varible 2. Constructor
+        // Before C# 6.0, We can initializte value for the property in either two ways. 1. Private Varible 2. Constructor
         private string _firstName = "TestFirstName";
 
         public string FirstName
